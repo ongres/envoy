@@ -21,6 +21,7 @@ Removed Config or Runtime
 
 New Features
 ------------
+* postgres: added ability to :ref:`terminate SSL<envoy_v3_api_field_extensions.filters.network.postgres_proxy.v3alpha.PostgresProxy.terminate_ssl>`.
 
 Deprecated
 ----------
